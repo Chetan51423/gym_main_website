@@ -1,0 +1,193 @@
+.eng_lang
+{
+    border-width: 0px;
+}
+#nav-toggle-button
+{
+    background-color:red;
+}
+.main_container
+{
+    background: radial-gradient(65.29% 66.81% at 31.38% 37.3%, rgba(31, 147, 255, 0.34) 0%, rgba(30, 30, 30, 0) 100%), radial-gradient(88.46% 36.76% at 55.47% 63.24%, rgba(255, 68, 0, 0.45) 0%, rgba(255, 68, 0, 0) 100%), rgb(18, 18, 18);
+    height: 91vh;
+    width: 100vw;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+/* .main_row
+{
+    display: flex;
+    margin-left: 364px;
+    margin-right: 364px;
+} */
+.main
+{
+    display: flex;
+    margin-left: 364px;
+    margin-right: 364px;
+}
+.main_div
+{
+    
+    color: white;
+    flex-flow: row wrap;
+    padding-top: 50px;
+    
+    text-align: left;
+    width: 416px;
+    height: 548px;
+    bottom: 0px;
+    
+
+}
+.madmuscles_div
+{
+    margin-top: 110px;
+    margin-bottom: 25px;
+}
+.madmuscles
+{
+    font-size: 47px;
+    font-weight: 700;
+}
+.para_content
+{
+    margin-bottom: 35px;
+    width: 100%;
+    display: block;
+    text-align: left;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: -0.0143007em;
+    line-height: 26px;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+    
+}
+.choose_program
+{
+    display: inline-flex;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 16px;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgb(255, 68, 0);
+    width: 312px;
+    height: 56px;
+
+}
+.choose_program_child
+{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: -0.0143007em;
+    line-height: 18px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin: auto;
+    margin-left: 0px;
+    
+}
+.arrow
+{
+    color: white;
+    height: 23.04px;
+    min-width: 24px;
+    width: 24px;
+    
+
+}
+.mobile_image_div
+{
+    
+}
+.mobile_image
+{
+    height: 580px;
+    width: 280px;
+}
+.section1
+{
+    background-color: rgb(18, 18, 18);
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+.section1_div
+{
+    color: white;
+    padding: 16px;
+    margin: auto;
+}
+.section1_innerdiv
+{
+   
+    margin-left: 250px;
+    margin-right: 200px;
+    margin-top: 70px;
+    display: flex;
+    margin-bottom: 70px;
+    align-items: center;
+}
+.personal_plan
+{
+    margin-top: 0mm;
+    margin-left: 30px;
+}
+.section1_elements
+{
+    margin: 30px;
+}
+.styled 
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.styled li::before {
+    content: '🔥 ';
+  }
+
+.styled li:nth-child(2)::before {
+    content: '💪 ';
+  }
+.food_fig
+{
+    margin-left: 80px;
+}
+.man_workout
+{
+    margin: 40px;
+}
+.styled_result
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.result
+{
+   display: flex;
+   position: relative;
+   margin: auto;
+}
+.result_div
+{
+    text-align: center;
+}
+.result_inner_div
+{
+    margin-left: 280px;
+    margin-right: 220px;
+    padding-top: 30px;
+}
+.result_li
+{
+   margin: 44px;
+}
