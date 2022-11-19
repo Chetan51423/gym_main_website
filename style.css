@@ -191,3 +191,21 @@
 {
    margin: 44px;
 }
+.list_para
+{
+    font-size: 18px;
+}
+.yt_video_div
+{
+    height: 700px;
+    margin-top: 0%;
+}
+.yt_video
+{
+    display: flex;
+    margin: auto;
+    
+    height: 660px;
+    width: 1010px;
+   
+}
